@@ -1,0 +1,38 @@
+from time import sleep
+n = int(input('\033[4;34mDigite um número e mostraremos sua tabuada \033[m: ')) # Digite o número e sera mostrado a sua tabuada
+# Forma de realizar ¹
+#print('{} x {} = {}'.format(n, 1, n*1))
+#print('{} x {} = {}'.format(n, 2, n*2))
+#print('{} x {} = {}'.format(n, 3, n*3))
+#print('{} x {} = {}'.format(n, 4, n*4))
+#print('{} x {} = {}'.format(n, 5, n*5))
+#print('{} x {} = {}'.format(n, 6, n*6))
+#print('{} x {} = {}'.format(n, 7, n*7))
+#print('{} x {} = {}'.format(n, 8, n*8))
+#print('{} x {} = {}'.format(n, 9, n*9))
+#print('{} x {} = {}'.format(n, 10, n*10))
+print('-' * 14)
+# Forma de realizar ²
+# Operações para calcular a tabuada do número listado
+print('{} x {:2} = {}'.format(n, 1, n*1))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 2, n*2))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 3, n*3))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 4, n*4))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 5, n*5))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 6, n*6))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 7, n*7))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 8, n*8))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 9, n*9))
+sleep(1)
+print('{} x {:2} = {}'.format(n, 10, n*10))
+sleep(1)
+print('-' * 14)
+#{:2} significa dizer que o número terá 2 'dígitos' digamos assim

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="705fd905-b043-4415-ae93-d1eabefc1d52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../cursodepythonmundo1\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cursodepythonmundo1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W7j6nq2352p85wY1Lqz3jAnGKx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elysson\PycharmProjects\cursodepythonmundo1" />
+      <recent name="C:\Users\Elysson\PycharmProjects\cursodepython" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Calculadora">
+    <configuration name="Calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursodepython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculadora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 004" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cursodepython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 028 (usuário dizer um númro sortiado e falar se tá certo ou errado)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursodepython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 028 (usuário dizer um númro sortiado e falar se tá certo ou errado).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 029 (viagem com as condições explicadas)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursodepython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 029 (viagem com as condições explicadas).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio025(SILVA no nome)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursodepython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio025(SILVA no nome).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio027(nome de uma pessoa , uma análise)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursodepython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio027(nome de uma pessoa , uma análise).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Calculadora" />
+        <item itemvalue="Python.desafio 029 (viagem com as condições explicadas)" />
+        <item itemvalue="Python.desafio 028 (usuário dizer um númro sortiado e falar se tá certo ou errado)" />
+        <item itemvalue="Python.desafio027(nome de uma pessoa , uma análise)" />
+        <item itemvalue="Python.desafio025(SILVA no nome)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="705fd905-b043-4415-ae93-d1eabefc1d52" name="Default Changelist" comment="" />
+      <created>1578507356028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578507356028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1513" height="237" key="GridCell.Tab.0.bottom" timestamp="1616601217484">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616601217484" />
+    <state width="1513" height="237" key="GridCell.Tab.0.center" timestamp="1616601217484">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1616601217484" />
+    <state width="1513" height="237" key="GridCell.Tab.0.left" timestamp="1616601217484">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1616601217484" />
+    <state width="1513" height="237" key="GridCell.Tab.0.right" timestamp="1616601217484">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1616601217484" />
+    <state width="1513" height="262" key="GridCell.Tab.1.bottom" timestamp="1616589986538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616589986538" />
+    <state width="1513" height="262" key="GridCell.Tab.1.center" timestamp="1616589986538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1616589986538" />
+    <state width="1513" height="262" key="GridCell.Tab.1.left" timestamp="1616589986538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1616589986538" />
+    <state width="1513" height="262" key="GridCell.Tab.1.right" timestamp="1616589986538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1616589986538" />
+    <state x="276" y="60" key="SettingsEditor" timestamp="1613746757316">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="276" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1613746757316" />
+    <state x="470" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1616587967439">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1616587967439" />
+    <state x="454" y="264" width="707" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1613746749707">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="454" y="264" width="707" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1613746749707" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1613657143502">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1613657143502" />
+  </component>
+</project>
