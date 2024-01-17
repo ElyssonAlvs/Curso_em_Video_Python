@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e02caab-4041-4128-8689-55bd7d73ef97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Curso_em_Video.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 02/Challenge/68.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 02/Challenge/68.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 02/Challenge/70.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 02/Challenge/70.py" afterDir="false" />
-    </list>
+    <list default="true" id="0e02caab-4041-4128-8689-55bd7d73ef97" name="Changes" comment="While com Break" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,12 +54,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705519336469</updated>
-      <workItem from="1705519338625" duration="2250000" />
+      <workItem from="1705519338625" duration="2669000" />
     </task>
+    <task id="LOCAL-00001" summary="Estrutura WHILE com break">
+      <option name="closed" value="true" />
+      <created>1705522933103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705522933104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Configs">
+      <option name="closed" value="true" />
+      <created>1705522965077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705522965077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="While com Break">
+      <option name="closed" value="true" />
+      <created>1705523002465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705523002465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estrutura WHILE com break" />
+    <MESSAGE value="Configs" />
+    <MESSAGE value="While com Break" />
+    <option name="LAST_COMMIT_MESSAGE" value="While com Break" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_em_Video_Python$70.coverage" NAME="70 Coverage Results" MODIFIED="1705522713951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/World 02/Challenge" />
