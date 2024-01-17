@@ -15,7 +15,7 @@ import random  # Importa o módulo random para gerar números aleatórios
 vitorias_consecutivas = 0  # Inicializa o contador de vitórias consecutivas
 
 while True:
-    jogador_escolha = input("Escolha par (P) ou ímpar (I): ").strip().upper()
+    jogador_escolha = input("Escolha par (P) ou ímpar (I): ").strip().upper()[0]
 
     if jogador_escolha not in ("P", "I"):
         print("Escolha inválida. Digite 'P' para par ou 'I' para ímpar.")
