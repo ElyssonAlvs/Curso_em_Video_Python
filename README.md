@@ -1,7 +1,9 @@
 # Curso em Vídeo Python
+
 Nesse repositório escolhi colocar os códigos do curso de Python do professor Gustavo Guanabara.
 Onde foram abordadas desde os fundamentos essenciais do Python, até a estruturas complexas
 de dados, demostrando as possibilidades da linguagem.
+
 ---
 ## Mundo 1 - Fundamento do Python
 
