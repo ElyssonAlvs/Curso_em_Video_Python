@@ -8,7 +8,7 @@ OBS: Considere que a caixa possui cédulas de 50,20,10 e 5
 valor_saque = int(input("Digite o valor a ser sacado: R$"))
 
 # Inicializa as variáveis para contar as cédulas
-cedulas_50 = cedulas_20 = cedulas_10 = cedulas_5 = 0
+cedulas_50 = cedulas_20 = cedulas_10 = cedulas_5 = cedulas_1 = 0
 
 # Calcula as cédulas
 while valor_saque > 0:
@@ -24,6 +24,9 @@ while valor_saque > 0:
     elif valor_saque >= 5:
         cedulas_5 += 1  # Incrementa a quantidade de cédulas de R$5
         valor_saque -= 5  # Subtrai R$5 do valor total
+    elif valor_saque >= 1:
+        cedulas_1 += 1
+        valor_saque -= 1
     else:
         print("Não é possível sacar o valor solicitado com as cédulas disponíveis.")
         break  # Sai do loop se não for possível fazer o saque com as cédulas disponíveis
@@ -37,3 +40,5 @@ if cedulas_10 > 0:
     print(f"Cédulas de R$10: {cedulas_10}")
 if cedulas_5 > 0:
     print(f"Cédulas de R$5: {cedulas_5}")
+if cedulas_1 > 0:
+    print(f"Cédulas de R$1: {cedulas_1}")
