@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e02caab-4041-4128-8689-55bd7d73ef97" name="Changes" comment="While com Break" />
+    <list default="true" id="0e02caab-4041-4128-8689-55bd7d73ef97" name="Changes" comment="Configs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705519336469</updated>
-      <workItem from="1705519338625" duration="2669000" />
+      <workItem from="1705519338625" duration="3520000" />
     </task>
     <task id="LOCAL-00001" summary="Estrutura WHILE com break">
       <option name="closed" value="true" />
@@ -80,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705523002465</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mundo 2">
+      <option name="closed" value="true" />
+      <created>1705524390029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705524390029</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Configs">
+      <option name="closed" value="true" />
+      <created>1705524412671</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705524412671</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,9 +104,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estrutura WHILE com break" />
-    <MESSAGE value="Configs" />
     <MESSAGE value="While com Break" />
-    <option name="LAST_COMMIT_MESSAGE" value="While com Break" />
+    <MESSAGE value="Mundo 2" />
+    <MESSAGE value="Configs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configs" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_em_Video_Python$70.coverage" NAME="70 Coverage Results" MODIFIED="1705522713951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/World 02/Challenge" />
