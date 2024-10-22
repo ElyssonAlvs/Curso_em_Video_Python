@@ -5,7 +5,7 @@ Onde foram abordadas desde os fundamentos essenciais do Python, até a estrutura
 de dados, demostrando as possibilidades da linguagem.
 
 ---
-## Mundo 1 - Fundamento do Python
+## [Mundo 1 - Fundamento do Python](https://github.com/ElyssonAlvs/Curso_em_Video_Python/tree/main/World%2001)
 
 Foram apresentados conceitos básicos da linguagem :
  - Tipos primitivos e saída de dados
@@ -16,7 +16,7 @@ Foram apresentados conceitos básicos da linguagem :
  - Como colocar cores no terminal
 ---
 
-## Mundo 2 - Condicionais e Laço de repetição
+## [Mundo 2 - Condicionais e Laço de repetição](https://github.com/ElyssonAlvs/Curso_em_Video_Python/tree/main/World%2002)
 
 Abordado de uma forma mais prática os conceitos de Condicionais e Laços de repetição :
 
